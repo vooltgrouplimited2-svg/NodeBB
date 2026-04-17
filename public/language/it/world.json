@@ -1,0 +1,29 @@
+{
+	"name": "Mondo",
+	"latest": "Latest",
+	"latest-local": "Latest (Local)",
+	"latest-all": "Latest (All)",
+	"popular-day": "Popolare (Giorno)",
+	"popular-week": "Popolare (Settimana)",
+	"popular-month": "Popolare (Mese)",
+	"popular-year": "Popolare (Anno)",
+	"popular-alltime": "Popolare (Tutto il tempo)",
+	"recent": "Tutto",
+	"help": "Aiuto",
+
+	"help.title": "Cos'è questa pagina?",
+	"help.intro": "Benvenuto nel tuo angolo del fediverso.",
+	"help.fediverse": "Il \"fediverso\" è una rete di applicazioni e siti web interconnessi che comunicano tra loro e i cui utenti possono vedersi. Questo forum è federato e può interagire con quel social web (o \"fediverso\"). Questa pagina è il tuo angolo di fediverso. Si tratta esclusivamente di discussioni create da — e condivisi da — utenti che <strong>tu</strong> segui.",
+	"help.build": "Potrebbero non esserci molte discussioni da cui iniziare, è normale. Inizierai a vedere più contenuti qui col tempo, quando inizierai a seguire altri utenti.",
+	"help.federating": "Allo stesso modo, se gli utenti esterni a questo forum iniziano a <em>seguirti</em>, i tuoi post inizieranno ad apparire anche su quelle app e quei siti web.",
+	"help.next-generation": "Questa è la prossima generazione di social media, inizia a contribuire oggi!",
+
+	"onboard.title": "A world of content at your fingertips&hellip;",
+	"onboard.what": "Think of this as your global discovery feed. It brings together interesting discussions from across the web and other communities, all in one place.",
+	"onboard.why": "While you can browse what's trending now, the best way to use this feed is to make it your own. By creating an account, you can follow specific creators and topics to filter out the noise and see only what matters to you.",
+	"onboard.how": "Ready to dive in? Create an account to start following others, get notified when people reply to you, and save your favorite finds.",
+
+	"category-search": "Trova una categoria...",
+	"see-more": "Vedi di più",
+	"see-less": "Vedi meno"
+}
